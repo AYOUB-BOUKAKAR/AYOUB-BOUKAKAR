@@ -19,7 +19,7 @@
 
 ### 📬 How to Reach Me
 - Email: `ayoubboukakar123@gmail.com`
-- LinkedIn: [linkedin.com/in/tonprofil](https://ma.linkedin.com/in/ayoub-boukakar)
+- LinkedIn: [Ayoub Boukakar](https://ma.linkedin.com/in/ayoub-boukakar)
 
 ### 🛠️ Languages and Tools
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
