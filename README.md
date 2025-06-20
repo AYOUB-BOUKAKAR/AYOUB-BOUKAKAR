@@ -1,25 +1,25 @@
-<h1 align="center">Hi 👋, I'm Ayoub</h1>
+<h1 align="center">Hi 👋, I'm Ayoub Boukakar</h1>
 
 ### 🌟 About Me
-🎓 I’m a Computer Science & Engineering student based in Morocco.  
-💡 I love working on university platforms, backend systems, and optimization algorithms.  
+🎓 I’m a Computer Science & Engineering student based in Al Hoceima, Morocco.  
+💡 I love working on cross platforms, backend systems, and optimization algorithms.  
 🔧 Passionate about merging logic, code, and creativity into useful tools.  
 
 ### 🌱 Currently Learning
-- 
+- C++
 - 📘 Qt C++ (GUI Programming)
 - 🛠 PHP & MySQL (Web backend)
 
 ### 🔗 Projects
-- 🎓 University Module Manager (PHP + MySQL)
-- 🧬 8 Queens Problem with Genetic Algorithm (C++ + Qt)
-- 📅 Schedule Upload System for Semesters (Web App)
+- 🎓 Teaching Assignment Management Application(HTML + CSS + JS + PHP + MySQL)
+- 📖 Library management system (C++ + Qt)
+- 🍕 Restaurant management App (C programming language)
 
 ➡️ See more on my [GitHub Projects](https://github.com/ayoubbkr)
 
 ### 📬 How to Reach Me
-- Email: `ton.email@gmail.com`
-- LinkedIn: [linkedin.com/in/tonprofil](https://linkedin.com/in/tonprofil)
+- Email: `ayoubboukakar123@gmail.com`
+- LinkedIn: [linkedin.com/in/tonprofil](https://ma.linkedin.com/in/ayoub-boukakar)
 
 ### 🛠️ Languages and Tools
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
@@ -32,7 +32,3 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 
 ---
-
-<!-- Optional: GitHub stats -->
-### 📊 GitHub Stats
-![Ayoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayoubbkr&show_icons=true&theme=tokyonight)
