@@ -1,4 +1,4 @@
-<h1 align="center">Hi There👋, Its :</h1>
+<h1 align="center">Hi 👋, Its :</h1>
 
 <div align="center">
 <div align="center">
