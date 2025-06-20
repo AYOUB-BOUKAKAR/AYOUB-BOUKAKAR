@@ -1,9 +1,10 @@
 <h1 align="center">Hi There 👋, Its :</h1>
 
-<div align="center" margin-left:200px>
+<div align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AYOUB+BOUKAKAR+(A.BKR)" alt="Typing SVG" />
 </div>
-         
+</div>
 
 ### 🌟 About Me
 🎓 I’m a Computer Science & Engineering student based in Al Hoceima, Morocco.  
