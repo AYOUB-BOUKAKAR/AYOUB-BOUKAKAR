@@ -1,7 +1,6 @@
-<h1 align="center">Hi There 👋</h1>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AYOUB+BOUKAKAR+(A.BKR))](https://git.io/typing-svg)
-
+<h1 align="center">Hi There 👋, Its :
+         [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AYOUB+BOUKAKAR+(A.BKR))](https://git.io/typing-svg)
+</h1>
 
 ### 🌟 About Me
 🎓 I’m a Computer Science & Engineering student based in Al Hoceima, Morocco.  
