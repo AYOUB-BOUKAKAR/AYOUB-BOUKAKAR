@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayoub Boukakar</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+I'm+El+Afifi+Youssef)](https://git.io/typing-svg)
 
 ### 🌟 About Me
 🎓 I’m a Computer Science & Engineering student based in Al Hoceima, Morocco.  
