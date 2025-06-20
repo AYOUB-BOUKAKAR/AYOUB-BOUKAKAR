@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AYOUB+BOUKAKAR+(A.BKR))](https://git.io/typing-svg)
-</h1>
+<h1 align="center">Hi There 👋</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AYOUB+BOUKAKAR+(A.BKR))](https://git.io/typing-svg)
 
 
 ### 🌟 About Me
