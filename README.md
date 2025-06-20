@@ -1,6 +1,6 @@
 <h1 align="center">Hi There 👋, Its :</h1>
 
-<div align="center" margin-left:20px>
+<div align="center" margin-left:200px>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AYOUB+BOUKAKAR+(A.BKR)" alt="Typing SVG" />
 </div>
          
