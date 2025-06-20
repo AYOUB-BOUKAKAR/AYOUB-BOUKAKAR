@@ -2,7 +2,7 @@
 
 <div align="center">
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AYOUB+BOUKAKAR+(A.BKR)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AYOUB+BOUKAKAR+or+(A.BKR)" />
 </div>
 </div>
 
