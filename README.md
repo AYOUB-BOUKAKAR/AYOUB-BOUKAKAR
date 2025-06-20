@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ayoub Boukakar</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AYOUB+BOUKAKAR+(A.BKR))](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AYOUB+BOUKAKAR+(A.BKR))](https://git.io/typing-svg)
+</h1>
+
+
 ### 🌟 About Me
 🎓 I’m a Computer Science & Engineering student based in Al Hoceima, Morocco.  
 💡 I love working on cross platforms, backend systems, and optimization algorithms.  
