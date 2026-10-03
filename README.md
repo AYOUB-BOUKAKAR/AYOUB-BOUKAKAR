@@ -13,11 +13,12 @@ I build backend systems and full-stack apps, with a taste for clean architecture
 🎯 **Currently looking for a final-year internship (PFE) starting February / March 2027.**
 
 ### 🔭 What I Work With
-- **Backend & microservices:** Spring Boot, Spring Cloud (API Gateway, Eureka, OpenFeign)
-- **Full-stack:** React, C#/.NET, MongoDB, MySQL
-- **AI / Deep Learning:** PyTorch (GAN, CNN, RNN, Mamba), text-to-speech research
-- **Mobile:** Android (Java / Kotlin), currently learning
-- **Systems & GUI:** C++, Qt
+-  **Languages:** Java, Python, C, C++, C#, PHP, JavaScript, SQL, Kotlin (in progress).
+-  **Backend:** Spring Boot (REST APIs, Spring Cloud microservices), JPA/Hibernate, .NET, Laravel.
+-  **Frontend & Mobile:** React, HTML/CSS, Tailwind CSS, Bootstrap, Android SDK (in progress), Qt (desktop).
+-  **Databases:** MySQL, PostgreSQL, MSSQL, MongoDB (sharding / NoSQL).
+-  **Cloud & DevOps:** Docker, Git/GitHub, Maven, Postman, CI/CD (in progress), Agile/Scrum , Linux (administration, Bash scripting, SSH), Windows.
+-  **AI / Deep Learning:** PyTorch, CUDA, GANs, Audio signal processing.
 
 ### 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -38,4 +39,4 @@ I build backend systems and full-stack apps, with a taste for clean architecture
 ### 📬 Contact
 - 📧 ayoubboukakar123@gmail.com
 - 💼 [LinkedIn](https://ma.linkedin.com/in/ayoub-boukakar)
-- 🌍 Morocco (open to relocation for the right internship)
+- 🌍 Morocco (open to relocation for the right internship !!)
