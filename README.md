@@ -40,12 +40,6 @@ I build backend systems and full-stack apps, with a taste for clean architecture
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ayoubbkr&show_icons=true&hide_border=true&theme=default" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubbkr&layout=compact&hide_border=true" />
-</p>
-
 ### 📬 Contact
 - 📧 ayoubboukakar123@gmail.com
 - 💼 [LinkedIn](https://ma.linkedin.com/in/ayoub-boukakar)
