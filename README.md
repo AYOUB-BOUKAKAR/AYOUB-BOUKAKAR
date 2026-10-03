@@ -1,7 +1,7 @@
 <h1 align="center">Ayoub Boukakar</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Backend+%7C+Microservices+%7C+Full-Stack;Looking+for+a+PFE+internship+(Feb+%2F+Mar+2027)" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Backend+%7C+Microservices+%7C+Full-Stack; Looking+for+a+PFE+internship+(Feb+%2F+Mar+2027)" />
 </div>
 
 <p align="center">
