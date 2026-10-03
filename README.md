@@ -1,40 +1,52 @@
-<h1 align="center">Hi 👋, Its :</h1>
+<h1 align="center">Ayoub Boukakar</h1>
 
 <div align="center">
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AYOUB+BOUKAKAR+or+(A.BKR)" />
-</div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Backend+%7C+Microservices+%7C+Full-Stack;Looking+for+a+PFE+internship+(Feb+%2F+Mar+2027)" />
 </div>
 
-### 🌟 About Me
-🎓 I’m a Computer Science & Engineering student based in Al Hoceima, Morocco.  
-💡 I love working on cross platforms, backend systems, and optimization algorithms.  
-🔧 Passionate about merging logic, code, and creativity into useful tools.  
-
-### 🌱 Currently Learning
-- C++
-- 📘 Qt C++ (GUI Programming)
-- 🛠 PHP & MySQL (Web backend)
-
-### 🔗 Projects
-- 🎓 Teaching Assignment Management Application(HTML + CSS + JS + PHP + MySQL)
-- 📖 Library management system (C++ + Qt)
-- 🍕 Restaurant management App (C programming language)
-
-➡️ See more on my [GitHub Projects](https://github.com/ayoubbkr)
-
-### 📬 How to Reach Me
-- Email: `ayoubboukakar123@gmail.com`
-- LinkedIn: [Ayoub Boukakar](https://ma.linkedin.com/in/ayoub-boukakar)
-
-### 🛠️ Languages and Tools
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+<p align="center">
+  <a href="https://ma.linkedin.com/in/ayoub-boukakar"><img src="https://img.shields.io/badge/LinkedIn-Ayoub_Boukakar-0A66C2?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:ayoubboukakar123@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
+
+### 👋 About Me
+Final-year Software Engineering student at **ENSAH** (École Nationale des Sciences Appliquées d'Al Hoceima), Morocco.
+I build backend systems and full-stack apps, with a taste for clean architecture and performance.
+
+🎯 **Currently looking for a final-year internship (PFE) starting February / March 2027.**
+
+### 🔭 What I Work With
+- **Backend & microservices:** Spring Boot, Spring Cloud (API Gateway, Eureka, OpenFeign)
+- **Full-stack:** React, C#/.NET, MongoDB, MySQL
+- **AI / Deep Learning:** PyTorch (GAN, CNN, RNN, Mamba), text-to-speech research
+- **Mobile:** Android (Java / Kotlin), currently learning
+- **Systems & GUI:** C++, Qt
+
+### 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### 📊 GitHub Stats
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ayoubbkr&show_icons=true&hide_border=true&theme=default" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubbkr&layout=compact&hide_border=true" />
+</p>
+
+### 📬 Contact
+- 📧 ayoubboukakar123@gmail.com
+- 💼 [LinkedIn](https://ma.linkedin.com/in/ayoub-boukakar)
+- 🌍 Morocco (open to relocation for the right internship)
