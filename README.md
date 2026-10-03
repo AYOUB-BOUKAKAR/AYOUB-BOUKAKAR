@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;BackEnd+%7C+FrontEnd+%7C+Full-Stack;Looking+for+a+PFE+internship+early+--2027" />
 </div>
 
-<p align="center">
-  <a href="https://ma.linkedin.com/in/ayoub-boukakar"><img src="https://img.shields.io/badge/LinkedIn-Ayoub_Boukakar-0A66C2?style=flat-square&logo=linkedin" /></a>
-  <a href="mailto:ayoubboukakar123@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
-
 ---
 
 ### 👋 About Me
